@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ex-Aid-yyds
-- 👀我对Software Testing
-- 🌱我现在正在学习..
+- 👀我对Software Testing 感兴趣
+- 🌱我现在正在学习python及其自动化测试
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
